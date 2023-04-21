@@ -6,7 +6,7 @@ INSERT INTO livros VALUES(
 "J.k Rowling",
 "Rocco",
 "Ficção científica",
-"26.99"
+26.90
 );
 
 INSERT INTO livros VALUES(
@@ -15,7 +15,7 @@ INSERT INTO livros VALUES(
 "J.k Rowling",
 "Rocco",
 "Ficção científica",
-"25.99"
+25.99
 );
 
 INSERT INTO livros VALUES(
@@ -24,7 +24,7 @@ INSERT INTO livros VALUES(
 "J.k Rowling",
 "Rocco",
 "Ficção científica",
-"23.99"
+23.99
 );
 
 INSERT INTO livros VALUES(
@@ -33,7 +33,7 @@ INSERT INTO livros VALUES(
 "J.k Rowling",
 "Rocco",
 "Ficção científica",
-"24.99"
+24.99
 );
 
 INSERT INTO livros VALUES(
@@ -42,7 +42,7 @@ INSERT INTO livros VALUES(
 "J.k Rowling",
 "Rocco",
 "Ficção científica",
-"25.99"
+25.99
 );
 
 INSERT INTO livros VALUES(
@@ -51,7 +51,7 @@ INSERT INTO livros VALUES(
 "J.k Rowling",
 "Rocco",
 "Ficção científica",
-"26.99"
+26.99
 );
 
 INSERT INTO livros VALUES(
@@ -60,7 +60,7 @@ INSERT INTO livros VALUES(
 "J.k Rowling",
 "Rocco",
 "Ficção científica",
-"27.99"
+27.99
 );
 
 INSERT INTO livros VALUES(
@@ -69,5 +69,5 @@ INSERT INTO livros VALUES(
 "J.k Rowling",
 "Rocco",
 "Ficção científica",
-"28.99"
+28.99
 );
