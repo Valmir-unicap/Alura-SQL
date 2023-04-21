@@ -6,6 +6,3 @@ INSERT INTO livros
 VALUES
 ("J.k Rowling", "Rocco", "Ficção científica", "Harry Potter e a pedra filosofal", 13, 26.90);
 
-#######       Código Extra      ########
-# Excluindo uma tabela
-DROP TABLE VENDEDORES;
